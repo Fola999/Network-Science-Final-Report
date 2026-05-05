@@ -1,0 +1,795 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-21">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="node_type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="USA" label="USA">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="AFG" label="AFG">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="AFR" label="AFR">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="ARE" label="ARE">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="ARG" label="ARG">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="ARM" label="ARM">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="AUS" label="AUS">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="AUT" label="AUT">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="AZE" label="AZE">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="BEL" label="BEL">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="BFA" label="BFA">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="BGD" label="BGD">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="BGR" label="BGR">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="BHR" label="BHR">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="BHS" label="BHS">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="BLR" label="BLR">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="BLZ" label="BLZ">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="BMU" label="BMU">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="BOL" label="BOL">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="BRA" label="BRA">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="BRB" label="BRB">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="BRN" label="BRN">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="CAN" label="CAN">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="CHE" label="CHE">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="CHL" label="CHL">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="CHN" label="CHN">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="CMR" label="CMR">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="COD" label="COD">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="COG" label="COG">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="COL" label="COL">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="CUB" label="CUB">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="CYP" label="CYP">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="CZE" label="CZE">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="DEU" label="DEU">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="DNK" label="DNK">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="DOM" label="DOM">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="DZA" label="DZA">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="ECU" label="ECU">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="EGY" label="EGY">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="ESP" label="ESP">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="ETH" label="ETH">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="EUR" label="EUR">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="FIN" label="FIN">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="FRA" label="FRA">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="GBR" label="GBR">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="GHA" label="GHA">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="GRC" label="GRC">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="GRD" label="GRD">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="GTM" label="GTM">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="GUY" label="GUY">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="HND" label="HND">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="HRV" label="HRV">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="HTI" label="HTI">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="HUN" label="HUN">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="IDN" label="IDN">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="IND" label="IND">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="IRL" label="IRL">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="IRN" label="IRN">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="IRQ" label="IRQ">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="ISL" label="ISL">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="ISR" label="ISR">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="ITA" label="ITA">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="JAM" label="JAM">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="JOR" label="JOR">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="JPN" label="JPN">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="KEN" label="KEN">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="KHM" label="KHM">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="KOR" label="KOR">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="KWT" label="KWT">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="LBN" label="LBN">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="LBR" label="LBR">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="LBY" label="LBY">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="LKA" label="LKA">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="LTU" label="LTU">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="MAR" label="MAR">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="MDV" label="MDV">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="MEX" label="MEX">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="MKD" label="MKD">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="MLI" label="MLI">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="MLT" label="MLT">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="MOZ" label="MOZ">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="MUS" label="MUS">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="MWI" label="MWI">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="MYS" label="MYS">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="NER" label="NER">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="NGA" label="NGA">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="NIC" label="NIC">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="NLD" label="NLD">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="NMR" label="NMR">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="NOR" label="NOR">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="NZL" label="NZL">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="OMN" label="OMN">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="PAK" label="PAK">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="PAN" label="PAN">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="PER" label="PER">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="PGS" label="PGS">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="PHL" label="PHL">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="POL" label="POL">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="PRK" label="PRK">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="PRT" label="PRT">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="PSE" label="PSE">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="QAT" label="QAT">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="RUS" label="RUS">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="RWA" label="RWA">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="SAU" label="SAU">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="SDN" label="SDN">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="SEA" label="SEA">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="SGP" label="SGP">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="SLV" label="SLV">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="SOM" label="SOM">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="SRB" label="SRB">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="SSD" label="SSD">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="SWE" label="SWE">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="SYR" label="SYR">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="TCD" label="TCD">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="THA" label="THA">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="TTO" label="TTO">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="TUR" label="TUR">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="TWN" label="TWN">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="TZA" label="TZA">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="UGA" label="UGA">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="UKR" label="UKR">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="VAT" label="VAT">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="VEN" label="VEN">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="VNM" label="VNM">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="WST" label="WST">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="YEM" label="YEM">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="ZAF" label="ZAF">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="ZMB" label="ZMB">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+      <node id="ZWE" label="ZWE">
+        <attvalues>
+          <attvalue for="0" value="partner" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="USA" target="AFG" id="0" weight="55" />
+      <edge source="USA" target="AFR" id="1" weight="64" />
+      <edge source="USA" target="ARE" id="2" weight="40" />
+      <edge source="USA" target="ARG" id="3" weight="2" />
+      <edge source="USA" target="ARM" id="4" weight="6" />
+      <edge source="USA" target="AUS" id="5" weight="47" />
+      <edge source="USA" target="AUT" id="6" weight="2" />
+      <edge source="USA" target="AZE" id="7" weight="18" />
+      <edge source="USA" target="BEL" id="8" weight="36" />
+      <edge source="USA" target="BFA" id="9" weight="3" />
+      <edge source="USA" target="BGD" id="10" weight="17" />
+      <edge source="USA" target="BGR" id="11" weight="1" />
+      <edge source="USA" target="BHR" id="12" weight="17" />
+      <edge source="USA" target="BHS" id="13" weight="6" />
+      <edge source="USA" target="BLR" id="14" weight="6" />
+      <edge source="USA" target="BLZ" id="15" weight="6" />
+      <edge source="USA" target="BMU" id="16" weight="1" />
+      <edge source="USA" target="BOL" id="17" weight="1" />
+      <edge source="USA" target="BRA" id="18" weight="23" />
+      <edge source="USA" target="BRB" id="19" weight="2" />
+      <edge source="USA" target="BRN" id="20" weight="1" />
+      <edge source="USA" target="CAN" id="21" weight="165" />
+      <edge source="USA" target="CHE" id="22" weight="70" />
+      <edge source="USA" target="CHL" id="23" weight="12" />
+      <edge source="USA" target="CHN" id="24" weight="262" />
+      <edge source="USA" target="CMR" id="25" weight="3" />
+      <edge source="USA" target="COD" id="26" weight="4" />
+      <edge source="USA" target="COG" id="27" weight="3" />
+      <edge source="USA" target="COL" id="28" weight="62" />
+      <edge source="USA" target="CUB" id="29" weight="185" />
+      <edge source="USA" target="CYP" id="30" weight="4" />
+      <edge source="USA" target="CZE" id="31" weight="25" />
+      <edge source="USA" target="DEU" id="32" weight="82" />
+      <edge source="USA" target="DNK" id="33" weight="436" />
+      <edge source="USA" target="DOM" id="34" weight="13" />
+      <edge source="USA" target="DZA" id="35" weight="8" />
+      <edge source="USA" target="ECU" id="36" weight="5" />
+      <edge source="USA" target="EGY" id="37" weight="9" />
+      <edge source="USA" target="ESP" id="38" weight="30" />
+      <edge source="USA" target="ETH" id="39" weight="2" />
+      <edge source="USA" target="EUR" id="40" weight="338" />
+      <edge source="USA" target="FIN" id="41" weight="6" />
+      <edge source="USA" target="FRA" id="42" weight="109" />
+      <edge source="USA" target="GBR" id="43" weight="502" />
+      <edge source="USA" target="GHA" id="44" weight="14" />
+      <edge source="USA" target="GRC" id="45" weight="14" />
+      <edge source="USA" target="GRD" id="46" weight="6" />
+      <edge source="USA" target="GTM" id="47" weight="3" />
+      <edge source="USA" target="GUY" id="48" weight="5" />
+      <edge source="USA" target="HND" id="49" weight="23" />
+      <edge source="USA" target="HRV" id="50" weight="1" />
+      <edge source="USA" target="HTI" id="51" weight="12" />
+      <edge source="USA" target="HUN" id="52" weight="4" />
+      <edge source="USA" target="IDN" id="53" weight="2" />
+      <edge source="USA" target="IND" id="54" weight="12" />
+      <edge source="USA" target="IRL" id="55" weight="41" />
+      <edge source="USA" target="IRN" id="56" weight="2838" />
+      <edge source="USA" target="IRQ" id="57" weight="316" />
+      <edge source="USA" target="ISL" id="58" weight="6" />
+      <edge source="USA" target="ISR" id="59" weight="549" />
+      <edge source="USA" target="ITA" id="60" weight="66" />
+      <edge source="USA" target="JAM" id="61" weight="5" />
+      <edge source="USA" target="JOR" id="62" weight="25" />
+      <edge source="USA" target="JPN" id="63" weight="26" />
+      <edge source="USA" target="KEN" id="64" weight="8" />
+      <edge source="USA" target="KHM" id="65" weight="2" />
+      <edge source="USA" target="KOR" id="66" weight="32" />
+      <edge source="USA" target="KWT" id="67" weight="35" />
+      <edge source="USA" target="LBN" id="68" weight="74" />
+      <edge source="USA" target="LBR" id="69" weight="3" />
+      <edge source="USA" target="LBY" id="70" weight="73" />
+      <edge source="USA" target="LKA" id="71" weight="9" />
+      <edge source="USA" target="LTU" id="72" weight="1" />
+      <edge source="USA" target="MAR" id="73" weight="6" />
+      <edge source="USA" target="MDV" id="74" weight="6" />
+      <edge source="USA" target="MEX" id="75" weight="98" />
+      <edge source="USA" target="MKD" id="76" weight="1" />
+      <edge source="USA" target="MLI" id="77" weight="1" />
+      <edge source="USA" target="MLT" id="78" weight="5" />
+      <edge source="USA" target="MOZ" id="79" weight="1" />
+      <edge source="USA" target="MUS" id="80" weight="17" />
+      <edge source="USA" target="MWI" id="81" weight="1" />
+      <edge source="USA" target="MYS" id="82" weight="4" />
+      <edge source="USA" target="NER" id="83" weight="2" />
+      <edge source="USA" target="NGA" id="84" weight="85" />
+      <edge source="USA" target="NIC" id="85" weight="9" />
+      <edge source="USA" target="NLD" id="86" weight="9" />
+      <edge source="USA" target="NMR" id="87" weight="6" />
+      <edge source="USA" target="NOR" id="88" weight="23" />
+      <edge source="USA" target="NZL" id="89" weight="8" />
+      <edge source="USA" target="OMN" id="90" weight="4" />
+      <edge source="USA" target="PAK" id="91" weight="136" />
+      <edge source="USA" target="PAN" id="92" weight="8" />
+      <edge source="USA" target="PER" id="93" weight="5" />
+      <edge source="USA" target="PGS" id="94" weight="1" />
+      <edge source="USA" target="PHL" id="95" weight="13" />
+      <edge source="USA" target="POL" id="96" weight="19" />
+      <edge source="USA" target="PRK" id="97" weight="16" />
+      <edge source="USA" target="PRT" id="98" weight="1" />
+      <edge source="USA" target="PSE" id="99" weight="103" />
+      <edge source="USA" target="QAT" id="100" weight="41" />
+      <edge source="USA" target="RUS" id="101" weight="331" />
+      <edge source="USA" target="RWA" id="102" weight="20" />
+      <edge source="USA" target="SAU" id="103" weight="129" />
+      <edge source="USA" target="SDN" id="104" weight="14" />
+      <edge source="USA" target="SEA" id="105" weight="2" />
+      <edge source="USA" target="SGP" id="106" weight="5" />
+      <edge source="USA" target="SLV" id="107" weight="21" />
+      <edge source="USA" target="SOM" id="108" weight="86" />
+      <edge source="USA" target="SRB" id="109" weight="3" />
+      <edge source="USA" target="SSD" id="110" weight="2" />
+      <edge source="USA" target="SWE" id="111" weight="11" />
+      <edge source="USA" target="SYR" id="112" weight="50" />
+      <edge source="USA" target="TCD" id="113" weight="7" />
+      <edge source="USA" target="THA" id="114" weight="2" />
+      <edge source="USA" target="TTO" id="115" weight="2" />
+      <edge source="USA" target="TUR" id="116" weight="21" />
+      <edge source="USA" target="TWN" id="117" weight="11" />
+      <edge source="USA" target="TZA" id="118" weight="1" />
+      <edge source="USA" target="UGA" id="119" weight="7" />
+      <edge source="USA" target="UKR" id="120" weight="147" />
+      <edge source="USA" target="USA" id="121" weight="13500" />
+      <edge source="USA" target="VAT" id="122" weight="25" />
+      <edge source="USA" target="VEN" id="123" weight="761" />
+      <edge source="USA" target="VNM" id="124" weight="21" />
+      <edge source="USA" target="WST" id="125" weight="183" />
+      <edge source="USA" target="YEM" id="126" weight="16" />
+      <edge source="USA" target="ZAF" id="127" weight="38" />
+      <edge source="USA" target="ZMB" id="128" weight="2" />
+      <edge source="USA" target="ZWE" id="129" weight="10" />
+    </edges>
+  </graph>
+</gexf>
